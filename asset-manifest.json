@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/phase-2-wk2-code-challenge/static/css/main.df2ba302.chunk.css",
+    "main.js": "/phase-2-wk2-code-challenge/static/js/main.98fd919d.chunk.js",
+    "main.js.map": "/phase-2-wk2-code-challenge/static/js/main.98fd919d.chunk.js.map",
+    "runtime-main.js": "/phase-2-wk2-code-challenge/static/js/runtime-main.6a222679.js",
+    "runtime-main.js.map": "/phase-2-wk2-code-challenge/static/js/runtime-main.6a222679.js.map",
+    "static/js/2.32976674.chunk.js": "/phase-2-wk2-code-challenge/static/js/2.32976674.chunk.js",
+    "static/js/2.32976674.chunk.js.map": "/phase-2-wk2-code-challenge/static/js/2.32976674.chunk.js.map",
+    "index.html": "/phase-2-wk2-code-challenge/index.html",
+    "static/css/main.df2ba302.chunk.css.map": "/phase-2-wk2-code-challenge/static/css/main.df2ba302.chunk.css.map",
+    "static/js/2.32976674.chunk.js.LICENSE.txt": "/phase-2-wk2-code-challenge/static/js/2.32976674.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a222679.js",
+    "static/js/2.32976674.chunk.js",
+    "static/css/main.df2ba302.chunk.css",
+    "static/js/main.98fd919d.chunk.js"
+  ]
+}
